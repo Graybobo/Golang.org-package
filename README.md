@@ -1,1 +1,1 @@
-Golang.org package offline cache
+Golang.org package cache
